@@ -1,0 +1,14 @@
+# Site settings
+title: Thirty° South
+email: kjaleshire@gmail.com
+description: >
+  Kyle Aleshire is a constantly curious software engineer living with his wife and
+  kitties on the outskirts of quirky Austin, Texas.
+baseurl: ""
+url: "http://kjaleshire.github.io"
+twitter_username: kjaleshire
+github_username:  kjaleshire
+
+# Build settings
+markdown: kramdown
+permalink: /:year-:month-:title/
