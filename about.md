@@ -14,6 +14,6 @@ In my spare time I read comics, tech books and the occasional sci-fi, fantasy or
 
 This blog is a collection of my thoughts and experiences as a relative newcomer to the world of professional technology and I hope you glean some insight and wisdom from it.
 
-Feel free to contact me at [kjaleshire@gmail.com](mailto:kjaleshire@gmail.com) or on [Twitter](http://twitter.com/kjaleshire).
+Feel free to contact me at [kjaleshire@gmail.com](mailto:kjaleshire@gmail.com) or [@kjaleshire](http://twitter.com/kjaleshire).
 
 Happy coding!
