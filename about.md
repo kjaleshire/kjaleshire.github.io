@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+G'day! I'm Kyle Aleshire. I live in Austin, Texas with my wife and our animal menagerie (currently two cats, two [Sugar gliders](http://en.wikipedia.org/wiki/Sugar_glider) and various plants). We are a Christian couple and attend [OneChapel](http://www.onechapel.com) church.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+We moved from Anchorage, Alaska in 2013 looking for new adventures, hence "Thirty° South".
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am a self-taught programmer and fluent in Ruby, Javascript, C and SQL and have varying experiences in Java, Objective-C, Swift, Go and Elixir. My current technology crush is [Rust](http://www.rust-lang.org), Mozilla's new systems language that will rock your statically-typed world.
+
+In my spare time I read comics, tech books and the occasional sci-fi, fantasy or spy novel. I also play a mediocre bass guitar, piano and ukulele.
+
+This blog is a collection of my thoughts and experiences as a relative newcomer to the world of professional technology and I hope you glean some insight and wisdom from it.
+
+Feel free to contact me at [kjaleshire@gmail.com](mailto:kjaleshire@gmail.com) or on [Twitter](http://twitter.com/kjaleshire).
+
+Happy coding!
