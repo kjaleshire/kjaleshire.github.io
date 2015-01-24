@@ -6,7 +6,7 @@ comments: false
 categories: reflection
 ---
 
-G'day, I'm Kyle. I live in Austin, Texas with my brilliant wife and menagerie (two loveable kitties, two feisty [Sugar gliders](http://en.wikipedia.org/wiki/Sugar_glider) and various green grow-y things). We moved from Anchorage, Alaska in 2013 for new adventures, hence "Thirty° South", and attend [OneChapel](http://www.onechapel.com) church.
+G'day, I'm Kyle. I live in Austin, Texas with my brilliant wife and menagerie (two loveable kitties, two feisty [sugar gliders](http://en.wikipedia.org/wiki/Sugar_glider) and various green grow-y things). We moved from Anchorage, Alaska in 2013 for new adventures, hence "Thirty° South", and attend [OneChapel](http://www.onechapel.com) church.
 
 I'm fluent in Ruby, Javascript & C and have been building web applications for the last few years. My latest shiny-thing crush is [Rust](http://www.rust-lang.org), the new systems language that will rock your duck-typed world.
 
