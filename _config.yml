@@ -16,7 +16,7 @@
 title: Kyle Aleshire
 email: kjaleshire@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm Kyle Aleshire, a constantly curious software engineer. I'm current living on the outskirts of Austin, Texas with my brilliant wife and two cats.
+  I'm Kyle Aleshire, a constantly curious software engineer. I live on the outskirts of Austin, Texas with my brilliant wife and two cats.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kjaleshire.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kjaleshire
@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-gist
 permalink: /:year-:month-:title/
 
 # Exclude from processing.

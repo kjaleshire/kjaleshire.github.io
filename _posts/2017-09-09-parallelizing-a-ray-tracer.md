@@ -8,7 +8,6 @@ categories: c++ concurrency graphics
 
 I worked through Peter Shirley's [Ray Tracing in One Weekend][0] when I needed something to do during [Hurricane Harvey][1]. It was a fun project and expanded my understanding of how ray-tracing works. The book is not large, maybe 20 pages, and walks through building a simple ray-tracer in C++. Eventually it renders the image seen on the cover complete with different material behavior like mirroring & glass refraction. Definitely recommend.
 
-
 A factor in not using ray-tracing to produce real-time graphics, a la video games, is that it takes several seconds to render even a thumbnail-size image. Fortunately, it's possible to parallelize the tracing algorithm since each pixel can be rendered independently.
 
 After finishing the ray-tracer itself, I attempted to speed it up with threads. Each thread would render a portion of the image, and the main thread then would then build the image. Starting with N threads = 2, I ran the rendering program. It did seem a little faster, but not the nearly x2 speedup I was expecting. I changed N to 4, and the tracer ran notabley slower, and with each N increase the tracer ran significantly slower. Once N reached double-digits, the tracer slowed to a crawl, taking over ten minutes for a single thumbnail image. Something was clearly wrong.
